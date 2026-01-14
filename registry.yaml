@@ -4,6 +4,20 @@
 # should build pages for, and indicates metadata such as tags, creation date and
 # authors for each page.
 
+- title: Building a Bilingual AI Application
+  path: examples/bilingual_ai_app/bilingual_ai_app_tutorial.ipynb
+  date: 2025-01-14
+  authors:
+    - DonnieChen92
+  tags:
+    - bilingual
+    - chinese
+    - prompt-management
+    - model-management
+    - export
+    - chat
+    - api
+
 - title: Transcribing User Audio with a Separate Realtime Request
   path: examples/Realtime_out_of_band_transcription.ipynb
   date: 2025-11-20
